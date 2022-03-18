@@ -1,0 +1,25 @@
+body 
+
+  .jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 170%;
+    text-align: center;
+    color: white;
+    text-shadow: rgb(31, 144, 3) 0.1em 0.1em 0.1em;
+  }
+  p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+
+  .well{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+  .panel-title{
+    color: rgb(7, 0, 0);
+  }
+  .panel-body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 4, 7);
+    font-weight: bold;
